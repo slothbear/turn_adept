@@ -1,0 +1,48 @@
+======================================
+World 84 <COS_DESTOURNEL> [29,157,289,314]
+     Technology[50],Resources[3],Bulk[3],B-Prod[3],Population[168],
+     Defense[74]
+        S0<COS_DESTOURNEL>[1:1]
+
+World 234 <PLUTARCH> [120,194,235,269,309,357]
+     Bulk[8],B-Prod[3],Dunamium[1],D-Prod[1],Population[41],
+     A124:Dynas Engine
+     S174<SCOTTY>-->W309
+
+World 249 <SCOTTY> [19,68,324,345,358],Captured
+     Bulk[3],B-Prod[3],Population[31]
+        S92<SCOTTY>[1:9],Bulk[6],A137:Websphere Engine,Moved
+
+World 281 <SCOTTY> [21,346,383]
+     Technology[50],Resources[13],Bulk[11],B-Prod[3],Dunamium[1],
+     Population[81],Defense[6]
+        S180<WAROMAT>[1:7],Bulk[5],Dunamium[2],Moved
+
+World 300 <SCOTTY> [4,19,95,327],Captured
+     Population[54]
+        S92<SCOTTY>[1:7],Bulk[7],A19:Websphere Array,
+     A137:Websphere Engine,A140:Websphere Array,Moved
+     
+World 306 <LAS_CASES> [14,36,163,230]
+     Bulk[6],B-Prod[2],Population[44/3m,MARGAUX],Defense[1]
+        S222<LAS_CASES>[1:1],A70:Fractyl Engine
+     
+World 309 <SCOTTY> [234,324,387]
+     Technology[50],Resources[19],Bulk[17],B-Prod[3],Dunamium[1],
+     Population[81],Defense[6],A70:Fractyl Engine,A150:Metear Pod
+        S174<SCOTTY>[1:10],Bulk[6],Dunamium[4],Moved
+     
+
+World 324 <SCOTTY> [15,230,249,309,358,364]
+     Bulk[9],B-Prod[3],Population[44],Defense[1]
+        S53<SCOTTY>[1:1],Moved
+        S120<SCOTTY>[1:1],Moved
+
+World 346 <WAROMAT> [35,37,86,180,281]
+     Bulk[8],B-Prod[2],Population[29],A61:Dynas Pod
+        S31<WAROMAT>[1:1],Moved
+        
+World 731 <MARGAUX> [51,142,169,205]
+     Bulk[29],B-Prod[2],Population[113],Defense[1]
+
+======================================
