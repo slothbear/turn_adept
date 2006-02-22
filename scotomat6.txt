@@ -1,48 +1,314 @@
+	From: 	  info@strategyguild.com
+	Subject: 	StarCon SC672 Turn 24<ECLIPSE>
+	Date: 	February 6, 2006 1:40:55 PM EST
+	To: 	  scotomat@constella.org
+
+STARCON SC672, Turn 24
+(Next turn due by 11:59 PM PST on Sunday, February 19, 2006) 
+
+<ECLIPSE> Menteron, Score: 16141 
+     Worlds=14,Technology=2,Population=1198,Mind-controlled=2157,Ships=6,
+     Energy=433,B-Prod=46,D-Prod=7,Artifacts=1 
+
+   Loaders:
+     RINCEWIND 
+   Encountered:
+     DOMINION* WOMBAT* ZERO* ZAPHOD* BOB_THE_TOMATO* BRITELITE* WHISPY 
+     RANTOCS* CHAKO* FUNGUS* SLUMBER* SPOCK TEGGERT* RINCEWIND* NORTHSTAR* 
+     FIRE SARGON DENIZEN* MONKEY MENTERON KLONK* BALROG CLAN_TECHWAAR  
 ======================================
-World 84 <COS_DESTOURNEL> [29,157,289,314]
-     Technology[50],Resources[3],Bulk[3],B-Prod[3],Population[168],
-     Defense[74]
-        S0<COS_DESTOURNEL>[1:1]
+World 16 <ECLIPSE> [278,290,433,539,833]
+     Bulk[27],B-Prod[3],Population[85/48m],A73:Fractyl Array
+     S271<ECLIPSE>-->W833   
 
-World 234 <PLUTARCH> [120,194,235,269,309,357]
-     Bulk[8],B-Prod[3],Dunamium[1],D-Prod[1],Population[41],
-     A124:Dynas Engine
-     S174<SCOTTY>-->W309
+World 27 <ZERO> [62,124,614,683],Captured from <RANTOCS>
+     Bulk[40],B-Prod[3],Dunamium[6],Population[214/10m,ECLIPSE],SM[1/0]
+        S311<ZERO>[1:57],Moved
 
-World 249 <SCOTTY> [19,68,324,345,358],Captured
-     Bulk[3],B-Prod[3],Population[31]
-        S92<SCOTTY>[1:9],Bulk[6],A137:Websphere Engine,Moved
+World 62 <ZERO> [27,159,378,848]
+     Bulk[13],B-Prod[2],Population[220/2m,ECLIPSE],Defense[10]
+     S311<ZERO>-->W27   
 
-World 281 <SCOTTY> [21,346,383]
-     Technology[50],Resources[13],Bulk[11],B-Prod[3],Dunamium[1],
-     Population[81],Defense[6]
-        S180<WAROMAT>[1:7],Bulk[5],Dunamium[2],Moved
+World 77 <KLONK> [250,335,463,613,727]
+     Bulk[70],B-Prod[5],Population[252/49m,ECLIPSE],Defense[1]
+     S33<ECLIPSE>-->W727   S254<ECLIPSE>-->W727   
+     S393<ECLIPSE>-->W727   
 
-World 300 <SCOTTY> [4,19,95,327],Captured
-     Population[54]
-        S92<SCOTTY>[1:7],Bulk[7],A19:Websphere Array,
-     A137:Websphere Engine,A140:Websphere Array,Moved
-     
-World 306 <LAS_CASES> [14,36,163,230]
-     Bulk[6],B-Prod[2],Population[44/3m,MARGAUX],Defense[1]
-        S222<LAS_CASES>[1:1],A70:Fractyl Engine
-     
-World 309 <SCOTTY> [234,324,387]
-     Technology[50],Resources[19],Bulk[17],B-Prod[3],Dunamium[1],
-     Population[81],Defense[6],A70:Fractyl Engine,A150:Metear Pod
-        S174<SCOTTY>[1:10],Bulk[6],Dunamium[4],Moved
-     
+World 78 <ZERO> [120,381,613,745],Captured from <ECLIPSE>
+     Bulk[80],B-Prod[4],Population[185/131m,BRITELITE]
+        S345<ZERO>[1:150],Moved,Intercepted
+     S12<BRITELITE>-->W120   S64<BRITELITE>-->W120   
 
-World 324 <SCOTTY> [15,230,249,309,358,364]
-     Bulk[9],B-Prod[3],Population[44],Defense[1]
-        S53<SCOTTY>[1:1],Moved
-        S120<SCOTTY>[1:1],Moved
+World 99 <NORTHSTAR> [261,405,675,774,792]
+     Bulk[15],B-Prod[3],Dunamium[5],D-Prod[1],Population[273/27m,ECLIPSE],
+     Defense[1]
 
-World 346 <WAROMAT> [35,37,86,180,281]
-     Bulk[8],B-Prod[2],Population[29],A61:Dynas Pod
-        S31<WAROMAT>[1:1],Moved
-        
-World 731 <MARGAUX> [51,142,169,205]
-     Bulk[29],B-Prod[2],Population[113],Defense[1]
+World 118 <ECLIPSE> [120,463,513,613]
+     Bulk[16],B-Prod[2],Dunamium[16],D-Prod[2],Population[131/13m],
+     Defense[1]
+
+World 120 <SLUMBER> [78,118,170,247],Strip-Mined
+     Bulk[35],B-Prod[4],Dunamium[12],Population[176/7m,ECLIPSE],SM[3/3],
+     Defense[1]
+        S12<BRITELITE>[1:310],A43:Palintic Pod,Moved
+        S64<BRITELITE>[1:22],Moved
+
+World 159 <ZERO> [62,433,539,551,833]
+     Population[113/8m,ECLIPSE],Defense[20],Intercepts
+        S445<ZERO>[1:0],Moved,Intercepted,Captured
+      from <ECLIPSE>
+     S287<ZERO>-->W833   
+
+World 185 <ECLIPSE> [230,410,588,755,770]
+     Bulk[30],B-Prod[3],Dunamium[20],D-Prod[2],Population[172/53m],
+     Defense[1]
+
+World 191 <TEGGERT> [3,10,481,753]
+     Bulk[36],B-Prod[4],Population[268/6m,ECLIPSE],Defense[1]
+        S256<ZAPHOD>[1:18],Moved
+
+World 259 <ECLIPSE> [261,278,290,792]
+     Bulk[41],B-Prod[5],Population[246m],Defense[1]
+
+World 261 <ECLIPSE> [99,259,381,647]
+     Bulk[39],B-Prod[3],Population[194/5m],Defense[1]
+
+World 278 <ECLIPSE> [16,259,381,745]
+     Technology[1],Resources[1],Bulk[14],B-Prod[2],Dunamium[2],
+     Population[113/85m],Defense[1]
+
+World 283 <ECLIPSE> [433,551,623,723]
+     Bulk[21],B-Prod[1],Population[190/6m],Defense[1],Intercepts
+        S9<ZERO>[1:34]
+     S302<ZERO>-->W433   
+
+World 290 <ECLIPSE> [16,43,259,376]
+     Bulk[21],B-Prod[1],Population[168/39m],Defense[1]
+
+World 301 <CHAKO> [257,494,612,633]
+     Bulk[21],B-Prod[4],Population[260/4m,ECLIPSE]
+     S325<CHAKO>-->W633   S508<CHAKO>-->W633   
+
+World 340 <ZERO> [73,497,723,810]
+     Technology[1],Resources[0/1],Bulk[17],B-Prod[4],Population[194],
+     Defense[21],Intercepts
+        S33<ECLIPSE>[1:78],Moved,Intercepted
+        S254<ECLIPSE>[1:78],Moved,Intercepted
+        S393<ECLIPSE>[1:80],Moved,Intercepted
+     S359<ECLIPSE>-->W497   
+
+World 342 <RANTOCS> [43,90,214,378]
+     Bulk[53],B-Prod[4],Dunamium[6],Population[225/4m,ECLIPSE],SM[1/0]
+     S187<RANTOCS>-->W90   
+
+World 376 <RANTOCS> [290,422,659,792]
+     Bulk[40],B-Prod[4],Dunamium[6],Population[208/1m,ECLIPSE],SM[1/0]
+
+World 379 <ZERO> [372,497,541,547]
+     Bulk[14],B-Prod[3],Population[249/11m,ECLIPSE],Defense[11]
+        S364<RANTOCS>[3:12],Moved
+        S488<RANTOCS>[3:44],Moved
+     S248<ZERO>-->W497   S404<ZERO>-->W497   
+
+World 381 <ECLIPSE> [78,247,261,278]
+     Bulk[20],B-Prod[2],Dunamium[10],D-Prod[1],Population[185/134m],
+     Defense[1]
+
+World 410 <ECLIPSE> [122,185,417]
+     Bulk[21],B-Prod[3],Population[204/37m],Defense[1]
+
+World 417 <ECLIPSE> [410,833]
+     Technology[1],Resources[1],Bulk[24],B-Prod[3],Population[127m]
+     S362<ECLIPSE>-->W833   
+
+World 422 <FUNGUS> [43,90,376,503],Strip-Mined
+     Bulk[11],B-Prod[4],Dunamium[6],Population[196/19m,ECLIPSE],SM[1/3]
+        S210<FUNGUS>[1:3]
+
+World 424 <BRITELITE> [28,361,578,647]
+     Bulk[4],B-Prod[2],Population[190/43m,ECLIPSE],Defense[2]
+     S319<BRITELITE>-->W28   
+
+World 433 <ZERO> [16,159,283,745,833],Captured from <ECLIPSE>
+     Bulk[41],B-Prod[2],Population[161/2m,BRITELITE]
+        S383<ZERO>[1:37],Fires at S64
+     S64<BRITELITE>-->W745   S302<ZERO>-->W833   
+     S345<ZERO>-->W745   
+
+World 479 <NORTHSTAR> [168,230,258,755],Gift from <RINCEWIND>
+     Bulk[24],B-Prod[2],Dunamium[1],D-Prod[1],Population[172/5m,ECLIPSE]
+     S407<RINCEWIND>-->W168   
+
+World 497 <ZERO> [340,379,419,553]
+     Bulk[17],B-Prod[4],Population[285],Defense[1]
+        S359<ECLIPSE>[1:63],Moved,Intercepted
+     S248<ZERO>-->W419   S404<ZERO>-->W419   
+
+World 524 <FUNGUS> [372,541,545,683,831]
+     Bulk[27],B-Prod[3],Dunamium[15],D-Prod[1],Population[210/85m,ECLIPSE],
+     SM[1/2]
+        S513<?>[2:0]
+        S541<FUNGUS>[2:13]
+     S364<RANTOCS>-->W372   S417<RANTOCS>-->W831   
+     S488<RANTOCS>-->W372   S588<WOMBAT>-->W683   
+     S589<WOMBAT>-->W541   
+
+World 539 <ZERO> [16,43,159,378,833]
+     Bulk[5],B-Prod[1],Population[152/2m,ECLIPSE]
+
+World 541 <ECLIPSE> [379,524,553,848]
+     Bulk[84],B-Prod[6],Population[204/28m],Defense[1]
+        S589<WOMBAT>[2:10],Moved
+
+World 547 <ZERO> [54,379,391,419],Captured
+     Bulk[15],B-Prod[3],Population[271/5m,ECLIPSE],A35:Metear Key
+        S14<ZERO>[1:34],Fires at S377
+        S377<ZERO>[1:0],Captured from <WOMBAT>
+
+World 551 <ZERO> [159,283,553,848]
+     Technology[2],Resources[2],Bulk[33],B-Prod[4],
+     Population[190/7m,ECLIPSE],Defense[2]
+     S287<ZERO>-->W159   
+
+World 553 <ECLIPSE> [497,541,551,723]
+     Bulk[80],B-Prod[8],Dunamium[18],D-Prod[1],Population[176m]
+
+World 588 <RANTOCS> [164,185,350,834]
+     Bulk[70],B-Prod[5],Dunamium[6],Population[237/6m,ECLIPSE],SM[1/0]
+     S583<RANTOCS>-->W350   
+
+World 612 <NORTHSTAR> [168,265,301,741],Gift from <SARGON>
+     Bulk[22],B-Prod[1],Population[192/4m,ECLIPSE,Deaths=1/1m],Defense[1],
+     Fires at Menteron
+
+World 613 <BOB_THE_TOMATO> [77,78,118,623],Strip-Mined
+     Bulk[36],B-Prod[6],Dunamium[16],Population[128/77m,BRITELITE],SM[5/3],
+     Defense[1]
+     S12<BRITELITE>-->W78   
+
+World 614 <DOMINION> [27,214,378,712]
+     Bulk[47],B-Prod[4],Population[246/22m,ECLIPSE]
+     S187<RANTOCS>-->W214   
+
+World 623 <ECLIPSE> [283,613,727,745]
+     Bulk[40],B-Prod[4],Dunamium[10],D-Prod[1],Population[285m],Defense[1]
+
+World 659 <RANTOCS> [72,376,503,617]
+     Bulk[24],B-Prod[3],Population[125/25m,ECLIPSE],SM[2/0]
+     S159<RANTOCS>-->W617   
+
+World 723 <ZERO> [283,340,553,727]
+     Bulk[52],B-Prod[3],Population[260/4m,ECLIPSE],Defense[1],Intercepts
+     S33<ECLIPSE>-->W340   S254<ECLIPSE>-->W340   
+     S302<ZERO>-->W283   S359<ECLIPSE>-->W340   
+     S393<ECLIPSE>-->W340   
+
+World 727 <DENIZEN> [73,77,623,723]
+     Bulk[120],B-Prod[6],Population[271/151m,ECLIPSE],Defense[1],Intercepts
+     S33<ECLIPSE>-->W723   S254<ECLIPSE>-->W723   
+     S359<ECLIPSE>-->W723   S393<ECLIPSE>-->W723   
+
+World 745 <BRITELITE> [78,278,433,623]
+     Bulk[42],B-Prod[2],Population[231/129m,ECLIPSE],Defense[1],Intercepts
+     S64<BRITELITE>-->W78   S345<ZERO>-->W78   
+
+World 753 <NORTHSTAR> [191,618,755,770]
+     Bulk[50],B-Prod[4],Population[248/8m,ECLIPSE],Defense[1]
+
+World 770 <FUNGUS> [10,185,753,834]
+     Bulk[66],B-Prod[6],Dunamium[10],Population[192/12m,ECLIPSE],SM[2/1],
+     Defense[1]
+
+World 774 <BRITELITE> [99,142,578,647]
+     Bulk[89],B-Prod[5],Population[287/24m,ECLIPSE],Defense[1]
+
+World 792 <NORTHSTAR> [72,99,259,376]
+     Bulk[84],B-Prod[6],Population[215/30m,ECLIPSE],Defense[1]
+
+World 831 <WOMBAT> [204,524,674,815]
+     Bulk[85],B-Prod[5],Dunamium[6],Population[260/9m,ECLIPSE],SM[1/0]
+     S128<CHAKO>-->W204   S417<RANTOCS>-->W674   
+     S603<WOMBAT>-->W204   
+
+World 833 <?> [16,159,417,433,539]
+     Technology[52],Resources[0/52],Bulk[21],B-Prod[5],Dunamium[28],
+     Population[135/7m,ECLIPSE],Defense[15],A6:Dynas Array,
+     A41:Tellurite Array
+        S237<ZERO>[1:1],Fires at S445
+        S271<ECLIPSE>[1:84],Population[84/37m],Moved
+        S287<ZERO>[1:15],Moved
+        S302<ZERO>[1:7],Moved,Intercepted
+        S350<?>[1:0]
+        S362<ECLIPSE>[1:39],Population[39m],Moved
+        S515<ZERO>[3:58],Fires at S445
+        S516<ZERO>[3:103],Fires at S445
+     S345<ZERO>-->W433   S445<ECLIPSE>-->W159   
+
+World 848 <ZERO> [62,541,551,683],Captured from <ECLIPSE>
+     Bulk[36],B-Prod[4],Population[265/73m,ECLIPSE]
+        S27<ZERO>[1:31],Fires at W848
 
 ======================================
+Controls 2081 mind-controlled population for 2081 points
+Controls 76 mind-controlled passengers for 76 points
+1 mind-controlled population killed for 4 points
+Owns 4 entirely mind-controlled worlds for 80 points
+
+Total points scored this turn: 2241
+======================================
+Players you can see this turn (sorted alphabetically):
+     BOB_THE_TOMATO BRITELITE CHAKO DENIZEN DOMINION FUNGUS KLONK NORTHSTAR 
+     RANTOCS RINCEWIND SLUMBER TEGGERT WOMBAT ZAPHOD ZERO 
+
+Their scores (sorted highest to lowest):
+     60238 44772 38773 38365 35422 28239 19633 19018 17701 13090 11630 
+     10027 7154 6410 6030  
+======================================
+BEACON MESSAGE FROM <DOMINION>
+
+     Greetings from DOMINION, please contact me for alliances and
+     trade, paulhujer@earthlink.net 
+======================================
+BEACON MESSAGE FROM <ZERO>
+Out hunting... jredeleker@yahoo.com 
+======================================
+BEACON MESSAGE FROM <ZAPHOD>
+
+     Cheap labor available! Experienced shipper! Contact Zaphod
+     at ken@kohn.com for all your hauling needs. 
+======================================
+BEACON MESSAGE FROM <BOB_THE_TOMATO>
+Contact Scott at crazyzo@earthlink.net 
+======================================
+BEACON MESSAGE FROM <CHAKO>
+
+     Join the Foundation
+     HWs managed, cut rates.
+     george@ondovchak.net 
+======================================
+BEACON MESSAGE FROM <FUNGUS>
+Fungus the Tenyryl.  Let's talk.  dofgath@yahoo.com 
+======================================
+BEACON MESSAGE FROM <SLUMBER>
+
+     I am SLUMBER the Tenyryl (Elliot Hudes - somnos@flyingmoose.ca).
+     Contact me to arrange borders, mutual trade and alliances. 
+======================================
+BEACON MESSAGE FROM <RINCEWIND>
+please contact me at timo.reinhardt@debitel.net 
+======================================
+BEACON MESSAGE FROM <NORTHSTAR>
+
+     Greetings from Northstar, your friendly neighborhood Fleer
+     Kavor. Managing homeworlds my specialty. Contact DickDonald@Mac.com 
+======================================
+BEACON MESSAGE FROM <DENIZEN>
+DENIZEN, Kwillic. Michael Cranford
+     michael@theinternetguru.com 
+======================================
+ORDERS:
+     S271W833 S33W727W723W340 S254W727W723W340 S393W727W723W340 W417T1S362 
+     D417T9S362 S362W833 S362L39P S359W723W340W497 S445D S445W159W551W553  
+
+     Beacon Message: 
+     Contact info, Free Starcon and Starweb mapping:  http://constella.org??

@@ -1,0 +1,371 @@
+<?xml version="1.0" ?>
+<TURNSHEET displayname="Turnsheet" version="2">
+	<GAME displayname="Game">
+		<TYPE displayname="Type">STARCON</TYPE>
+		<NUMBER displayname="Number">SC675</NUMBER>
+	</GAME>
+	<TURN displayname="Turn">3</TURN>
+	<DUE displayname="Due">7/24/2005 11:59 PM PST</DUE>
+	<PLAYER displayname="Player">
+		<NAME displayname="Name">SCORPION</NAME>
+		<RACE displayname="Race">Kwillic</RACE>
+		<SCORE displayname="Score">285</SCORE>
+		<SUMMARY displayname="Summary">
+			<WORLDS displayname="Worlds">8</WORLDS>
+			<TECHNOLOGY displayname="Technology">53</TECHNOLOGY>
+			<POPULATION displayname="Population">159</POPULATION>
+			<KWILLIC displayname="Kwillic">52</KWILLIC>
+			<SHIPS displayname="Ships">10</SHIPS>
+			<ENERGY displayname="Energy">44</ENERGY>
+			<BPROD displayname="B-Prod">14</BPROD>
+			<DPROD displayname="D-Prod">3</DPROD>
+		</SUMMARY>
+	</PLAYER>
+	<WORLDS>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">135</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">202</WORLD>
+				<WORLD displayname="World">225</WORLD>
+				<WORLD displayname="World">447</WORLD>
+			</CONNECTIONS>
+			<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+			<BULK displayname="Bulk">2</BULK>
+			<BPROD displayname="B-Prod">2</BPROD>
+			<POPULATION displayname="Population">
+				<TOTAL displayname="total">35</TOTAL>
+			</POPULATION>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">130</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">7</ENERGY>
+					<MOVED displayname="Moved">TRUE</MOVED>
+				</SHIP>
+			</SHIPS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">153</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">202</WORLD>
+				<WORLD displayname="World">282</WORLD>
+				<WORLD displayname="World">435</WORLD>
+				<WORLD displayname="World">494</WORLD>
+			</CONNECTIONS>
+			<TECHNOLOGY displayname="Technology">50</TECHNOLOGY>
+			<RESOURCES displayname="Resources">
+				<TOTAL>3</TOTAL>
+			</RESOURCES>
+			<BULK displayname="Bulk">3</BULK>
+			<BPROD displayname="B-Prod">3</BPROD>
+			<KWILLIC displayname="Kwillic">
+				<TOTAL displayname="total">50</TOTAL>
+			</KWILLIC>
+			<FLYTHROUGHS displayname="Flythroughs">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">278</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W494</TO>
+				</SHIP>
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">421</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W435</TO>
+				</SHIP>
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">499</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W494</TO>
+				</SHIP>
+			</FLYTHROUGHS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">193</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">210</WORLD>
+				<WORLD displayname="World">278</WORLD>
+				<WORLD displayname="World">494</WORLD>
+			</CONNECTIONS>
+			<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+			<DUNAMIUM displayname="Dunamium">1</DUNAMIUM>
+			<DPROD displayname="D-Prod">1</DPROD>
+			<POPULATION displayname="Population">
+				<TOTAL displayname="total">36</TOTAL>
+			</POPULATION>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">135</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">0</ENERGY>
+					<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+				</SHIP>
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">278</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">2</ENERGY>
+					<BULK displayname="Bulk">2</BULK>
+					<MOVED displayname="Moved">TRUE</MOVED>
+				</SHIP>
+			</SHIPS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">202</NUMBER>
+			<OWNER displayname="Owner">?</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">135</WORLD>
+				<WORLD displayname="World">153</WORLD>
+				<WORLD displayname="World">329</WORLD>
+			</CONNECTIONS>
+			<LOSTBY displayname="Lost by">SCORPION</LOSTBY>
+			<BULK displayname="Bulk">3</BULK>
+			<BPROD displayname="B-Prod">3</BPROD>
+			<POPULATION displayname="Population">
+				<TOTAL displayname="total">0</TOTAL>
+				<DEATHS displayname="Deaths">
+					<TOTAL displayname="Total">21</TOTAL>
+				</DEATHS>
+			</POPULATION>
+			<ARTIFACTS displayname="Artifacts">
+				<ARTIFACT displayname="Artifact">
+					<NUMBER displayname="Number">23</NUMBER>
+					<NAME displayname="Name">Roxon Pod</NAME>
+				</ARTIFACT>
+			</ARTIFACTS>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">264</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">1</ENERGY>
+					<HATCHED displayname="Hatched">6</HATCHED>
+				</SHIP>
+			</SHIPS>
+			<FLYTHROUGHS displayname="Flythroughs">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">130</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W135</TO>
+				</SHIP>
+			</FLYTHROUGHS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">282</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">153</WORLD>
+				<WORLD displayname="World">409</WORLD>
+			</CONNECTIONS>
+			<BULK displayname="Bulk">1</BULK>
+			<BPROD displayname="B-Prod">2</BPROD>
+			<KWILLIC displayname="Kwillic">
+				<TOTAL displayname="total">1</TOTAL>
+				<DEATHS displayname="Deaths">
+					<TOTAL displayname="Total">28</TOTAL>
+				</DEATHS>
+			</KWILLIC>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">270</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">1</ENERGY>
+					<HATCHED displayname="Hatched">8</HATCHED>
+				</SHIP>
+			</SHIPS>
+			<FLYTHROUGHS displayname="Flythroughs">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">278</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W153</TO>
+				</SHIP>
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">479</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W409</TO>
+				</SHIP>
+			</FLYTHROUGHS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">409</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">282</WORLD>
+				<WORLD displayname="World">375</WORLD>
+			</CONNECTIONS>
+			<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+			<BULK displayname="Bulk">3</BULK>
+			<BPROD displayname="B-Prod">3</BPROD>
+			<DUNAMIUM displayname="Dunamium">1</DUNAMIUM>
+			<DPROD displayname="D-Prod">1</DPROD>
+			<POPULATION displayname="Population">
+				<TOTAL displayname="total">41</TOTAL>
+			</POPULATION>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">479</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">3</ENERGY>
+					<MOVED displayname="Moved">TRUE</MOVED>
+				</SHIP>
+			</SHIPS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">435</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">153</WORLD>
+				<WORLD displayname="World">298</WORLD>
+				<WORLD displayname="World">456</WORLD>
+			</CONNECTIONS>
+			<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+			<TECHNOLOGY displayname="Technology">1</TECHNOLOGY>
+			<POPULATION displayname="Population">
+				<TOTAL displayname="total">23</TOTAL>
+			</POPULATION>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">421</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">13</ENERGY>
+					<MOVED displayname="Moved">TRUE</MOVED>
+				</SHIP>
+			</SHIPS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">470</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">231</WORLD>
+				<WORLD displayname="World">261</WORLD>
+				<WORLD displayname="World">494</WORLD>
+			</CONNECTIONS>
+			<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+			<BULK displayname="Bulk">2</BULK>
+			<BPROD displayname="B-Prod">2</BPROD>
+			<DUNAMIUM displayname="Dunamium">1</DUNAMIUM>
+			<DPROD displayname="D-Prod">1</DPROD>
+			<POPULATION displayname="Population">
+				<TOTAL displayname="total">24</TOTAL>
+			</POPULATION>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">475</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">0</ENERGY>
+					<CAPTUREDFROM displayname="Captured from">?</CAPTUREDFROM>
+				</SHIP>
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">499</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">10</ENERGY>
+					<MOVED displayname="Moved">TRUE</MOVED>
+				</SHIP>
+			</SHIPS>
+		</WORLD>
+		<WORLD displayname="World">
+			<NUMBER displayname="Number">494</NUMBER>
+			<OWNER displayname="Owner">SCORPION</OWNER>
+			<CONNECTIONS displayname="Connections">
+				<WORLD displayname="World">153</WORLD>
+				<WORLD displayname="World">193</WORLD>
+				<WORLD displayname="World">470</WORLD>
+			</CONNECTIONS>
+			<TECHNOLOGY displayname="Technology">2</TECHNOLOGY>
+			<RESOURCES displayname="Resources">
+				<TOTAL>1</TOTAL>
+			</RESOURCES>
+			<BULK displayname="Bulk">1</BULK>
+			<BPROD displayname="B-Prod">2</BPROD>
+			<KWILLIC displayname="Kwillic">
+				<TOTAL displayname="total">1</TOTAL>
+				<DEATHS displayname="Deaths">
+					<TOTAL displayname="Total">16</TOTAL>
+				</DEATHS>
+			</KWILLIC>
+			<SHIPS displayname="Ships">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">404</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<CLASS displayname="Class">1</CLASS>
+					<ENERGY displayname="Energy">7</ENERGY>
+					<HATCHED displayname="Hatched">6</HATCHED>
+				</SHIP>
+			</SHIPS>
+			<FLYTHROUGHS displayname="Flythroughs">
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">278</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W193</TO>
+				</SHIP>
+				<SHIP displayname="Ship">
+					<NUMBER displayname="Number">499</NUMBER>
+					<OWNER displayname="Owner">SCORPION</OWNER>
+					<TO displayname="To">W470</TO>
+				</SHIP>
+			</FLYTHROUGHS>
+		</WORLD>
+	</WORLDS>
+	<SCORING NAME="SCORPION">
+		<ITEM>Controls 52 Kwillic population for 10 points</ITEM>
+		<ITEM>Controls 3 Kwillic worlds for 75 points</ITEM>
+		<ITEM>Killed 65 population for 130 points</ITEM>
+		<TOTAL>215</TOTAL>
+	</SCORING>
+	<ORDERS displayname="Orders" player="SCORPION">
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">W153T3S421</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">D153T10S421</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S421W435</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">D153T10S499</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S499W494W470</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S264K3</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S264T7S130</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S130W135</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S270K4</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S270T2S278</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S270T3S479</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S479W409</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S278L</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S278W153W494W193</COMMAND>
+		</ORDER>
+		<ORDER displayname="Order">
+			<COMMAND displayname="Command">S404K3</COMMAND>
+		</ORDER>
+	</ORDERS>
+</TURNSHEET>
