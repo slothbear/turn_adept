@@ -77,7 +77,7 @@ begin
   myShip = false
   worldNum = ""
     
-  IO.foreach("scotomat6.txt") do |line|
+  IO.foreach("scotomat6.txt") do | line |
   #         S36<SCOTTY>[1:7],Moved
   
     next if line[0] == "#"
