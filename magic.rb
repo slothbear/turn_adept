@@ -1,5 +1,5 @@
-$me = 'SCOTTY|WAROMAT|SCORPION|ECLIPSE'
-$players = ['SCOTTY', 'WAROMAT', 'SCORPION', 'ECLIPSE']
+$me = 'POLLUX|SCOTTY|WAROMAT|SCORPION|ECLIPSE|ARISTO'
+$players = ['POLLUX', 'SCOTTY', 'WAROMAT', 'SCORPION', 'ECLIPSE', 'ARISTO']
 
 #
 #World 244 <RAINBOW> [96,230,332,340]
@@ -59,6 +59,7 @@ $ordable = Array.new
 
 def newWorld
   $ordable.each {|order| puts "//  #{order}"}
+  puts
   $ordable.clear
 end
 
@@ -81,8 +82,12 @@ begin
   #         S36<SCOTTY>[1:7],Moved
   
     next if line[0] == "#"
+    
+    if line =~ /======================================/
+        newWorld
+    end
 
-    if line =~ /^World (\d+) <(\w+)>/
+    if line =~ /^World (\d+) <([^>]+)>/ || line =~ /^W(\d+).*?\[(\w+)/
       newWorld
       worldNum = $1
       myWorld = $players.index($2) != nil
@@ -90,9 +95,8 @@ begin
     end
     
     # my ships are always mine
-    
-    if line =~ /S(\d+)<(#$me)>\[/
-      $ordable << "S#{$1}"
+    if line =~ /S(\d+)<(#$me)>\[/ || line =~ /(\w\d+)\[(ARISTO)\]=/
+      $ordable << $1
       myShip = $players.index($2) != nil
     end
 
@@ -105,9 +109,8 @@ begin
     next unless myWorld
     $ordable << "W#{worldNum}T#{$1}" if line =~ /.*Resources\[(\d+)\]/
     $ordable << "D#{worldNum}T#{$1}" if line =~ /.*Defense\[(\d+)\]/ and $1.to_i > 1
-
-
   end
   
+  newWorld
 end
 

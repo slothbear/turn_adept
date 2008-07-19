@@ -1,291 +1,118 @@
-	From: 	  info@strategyguild.com
-	Subject: 	StarCon SC678 Turn 14<WAROMAT>
-	Date: 	February 27, 2006 2:42:31 PM EST
-	To: 	  scotomat@constella.org
+Game SW-morocco2y, Turn 5, [ARISTO] RSW
 
-STARCON SC678, Turn 14
-(Next turn due by 11:59 PM PST on Sunday, March 12, 2006) 
+[ARISTO]: Artifact Collector
+   (Score=255,Worlds=15,Keys=25,Ships=58,Industry=40,Mines=72,People=631,
+   Artifacts=5,Met=[SHANTI],Met=[FREDDIE],Met=[FORSTER])
 
-<WAROMAT> Sar D'Kar, Score: 1874 
-     Worlds=10,Technology=0,Population=782,Ships=22,Energy=427,B-Prod=13,
-     D-Prod=1,Artifacts=1 
+   ------------
 
-<SCOTTY> Fleer Kavor, Score: 6468 
-     Worlds=29,Technology=106,Population=2793,Ships=2,Energy=59,B-Prod=70,
-     D-Prod=6,Artifacts=11 
+W4 (9,154,290) [ARISTO] (Metal=3,Mines=5,Population=4,Limit=91,Turns=2,
+      P-Ships=1)
+   F286[FORSTER]=5 (Moved)
+   (F110[ARISTO]-->W290 F167[ARISTO]-->W9 F290[ARISTO]-->W9)
 
-   Encountered:
-     BOB_THE_TOMATO* LARRY_CUCUMBER* CYLON* TERRAN SNAFU* FUBAR* RAINBOW* 
-     SUNSHINE MISTER YUKONCORNELIUS* MIGHTYCONVOY* MORTICIA KATZAX 
-     BRITELITE* MIMIC*  
-======================================
-World 3 <SCOTTY> [47,86,180,217]
-     Bulk[10],B-Prod[2],Dunamium[5],D-Prod[1],Population[111],Defense[1]
+W9 (4,55,237) [ARISTO] (Metal=19,Mines=7,Population=50,Limit=80,Turns=3,
+      P-Ships=1)
+   F304[ARISTO]=17 (Moved)
+   (F167[ARISTO]-->W237 F290[ARISTO]-->W237)
 
-World 4 <MIMIC> [9,116,300,364]
-     Bulk[23],B-Prod[3],Kwillic[4],Defense[3]
-        S42<MIMIC>[1:21],Moved
-        S53<WAROMAT>[1:6],Moved
+W15 (72,76) [FREDDIE] C[FREDDIE] (Captured,Metal=4,Mines=4,Population=18/2C,
+      Limit=111,Turns=1)
+   F59[FREDDIE]=6
+   F288[FREDDIE]=0 (Captured)
+   (F15[ARISTO]-->W72)
 
-World 15 <SCOTTY> [58,117,230,246,324]
-     Dunamium[2],D-Prod[1],Population[99],Defense[1]
+W24 (27,235,237) [ARISTO] (Metal=12,Mines=4,Population=82,Limit=113,Turns=3)
+   F111[ARISTO]=1
+   F149[ARISTO]=3 (Moved)
+   F302[ARISTO]=0 (Captured)
+   (F21[ARISTO]-->W237 F134[ARISTO]-->W237 F295[ARISTO]-->W237)
 
-World 19 <WAROMAT> [28,249,300,364]
-     Bulk[4],B-Prod[1],Dunamium[10],Population[62],SM[2/0],Defense[1]
-        S92<WAROMAT>[1:2]
+W27 (24,299) [SHANTI] (Captured,Metal=5,Mines=5,Population=10,Limit=140,
+      Turns=1)
+   F30[SHANTI]=1
+   (F149[ARISTO]-->W24)
 
-World 21 <SCOTTY> [7,99,104,281,398]
-     Technology[1],Resources[1],Bulk[12],B-Prod[4],Dunamium[3],D-Prod[1],
-     Population[108],Defense[3],Intercepts
-        S163<WAROMAT>[1:60],Moved
-        S210<WAROMAT>[1:16],Moved
-        S215<WAROMAT>[1:51],Moved
-        S219<WAROMAT>[1:9],Moved
-        S257<WAROMAT>[1:20],Moved
-        S260<WAROMAT>[1:24],Moved
-        S279<WAROMAT>[1:10],Moved,Captured from <LARRY_CUCUMBER>
-     S48<LARRY_CUCUMBER>-->W281   
-     S271<LARRY_CUCUMBER>-->W281   
+W32 (55,159,170,239) [ARISTO] (Metal=18,Mines=7,Population=29,Limit=98,
+      Turns=3)
+   (F78[ARISTO]-->W55 F121[ARISTO]-->W55 F176[ARISTO]-->W55 
+   F198[ARISTO]-->W55 F206[ARISTO]-->W55)
 
-World 35 <WAROMAT> [44,49,294,346]
-     Population[85],Defense[1]
-        S27<FUBAR>[1:17],Moved
+W39 (96,289,305) [ARISTO] (Metal=20,Mines=5,Population=62,Limit=94,Turns=4)
 
-World 37 <SCOTTY> [44,51,232,346]
-     Technology[1],Resources[1],Bulk[10],B-Prod[6],Population[74],Defense[1]
-     S267<WAROMAT>-->W346   
+W55 (9,32,170,289) [ARISTO] (Metal=4,Mines=1,Population=71,Limit=91,Turns=4)  
+      V12:Ancient Crown
+   F46[ARISTO]=1 (Moved)
+   F183[ARISTO]=1 (Moved)
+   F306[ARISTO]=1 (Moved)
+   F317[ARISTO]=1 (Moved)
+   (F78[ARISTO]-->W289 F121[ARISTO]-->W289 F176[ARISTO]-->W289 
+   F198[ARISTO]-->W289 F206[ARISTO]-->W289)
 
-World 44 <SCOTTY> [35,37,208,241]
-     Bulk[11],B-Prod[1],Population[114],Defense[1]
+W72 (15,159,222,239,254) [ARISTO] (Metal=7,Mines=3,Population=64,Limit=171,
+      Turns=3)  V88:Arcturian Stardust
+   F15[ARISTO]=3 (Moved)
+   F20[ARISTO]=1
+   (F27[ARISTO]-->W159 F41[ARISTO]-->W159)
 
-World 49 <SCOTTY> [35,132,241,319]
-     Bulk[12],B-Prod[2],Population[75],SM[1/0],Defense[1],Intercepts
-        S133<YUKONCORNELIUS>[1:44],Moved
-        S292<FUBAR>[3:20],Moved
-        S293<FUBAR>[3:20],Moved
-     S165<SNAFU>-->W319   
+W96 (39,235) [ARISTO] (Metal=9,Mines=3,Population=28,Limit=95,Turns=3,
+      P-Ships=1)
 
-World 51 <SCOTTY> [37,86,233,366]
-     Bulk[2],B-Prod[1],Dunamium[2],D-Prod[1],Population[114],Defense[1]
+W159 (32,72,289,305) [ARISTO] (Metal=16,Mines=5,Population=11,Limit=73,
+      Turns=4)  V44:Golden Shekel
+   F27[ARISTO]=1 (Moved)
+   F41[ARISTO]=1 (Moved)
 
-World 57 <WAROMAT> [124,216,277,314]
-     Bulk[26],B-Prod[3],Population[98],Defense[1]
-     S12<WAROMAT>-->W277   S174<WAROMAT>-->W277   
-     S183<WAROMAT>-->W277   S258<WAROMAT>-->W277   
+W170 (32,55) [ARISTO] (Metal=10,Mines=5,Population=30,Limit=101,Turns=3)
 
-World 59 <WAROMAT> [55,176,322,356],Captured
-     Bulk[1],B-Prod[1],Population[50]
-        S65<WAROMAT>[1:4],Moved
-        S208<WAROMAT>[1:37],Moved
+W222 (72,243) [] (Mines=6,Limit=93)  V5:Nebula Scrolls, Vol. V
+   F99[ARISTO]=2 (AH)
+   (F27[ARISTO]-->W72 F41[ARISTO]-->W72)
 
-World 68 <SCOTTY> [249,329,345,358,377]
-     Bulk[11],B-Prod[1],Population[103],Defense[1],A138:Websphere Engine
+W235 (24,96,186) [] (Mines=7,Limit=78)
+   (F21[ARISTO]-->W24 F134[ARISTO]-->W24 F295[ARISTO]-->W24)
 
-World 80 <SCOTTY> [62,120,242,343]
-     Bulk[11],B-Prod[1],Population[103],Defense[1]
-        S263<CYLON>[1:1],Moved
+W237 (9,24,289) [ARISTO] (Metal=18,Mines=6,Population=43,Limit=79,Turns=4)
+   F21[ARISTO]=1 (Moved)
+   F134[ARISTO]=1 (Moved)
+   F295[ARISTO]=1 (Moved)
+   (F167[ARISTO]-->W289 F290[ARISTO]-->W289 F304[ARISTO]-->W9)
 
-World 86 <SCOTTY> [3,51,198,346]
-     Technology[1],Resources[1],Bulk[5],B-Prod[3],Population[98],Defense[1]
+W239 (32,72) [ARISTO] (Metal=5,Mines=4,Population=21,Limit=92,Turns=2,
+      P-Ships=1)  V47:Vegan Shekel  V90:Plastic Sphinx
+   (F121[ARISTO]-->W32 F176[ARISTO]-->W32 F198[ARISTO]-->W32 
+   F206[ARISTO]-->W32)
 
-World 120 <SCOTTY> [80,192,234,235,269]
-     Bulk[34],B-Prod[3],Population[98],Defense[1]
+W254 (37,72) [ARISTO] (Metal=10,Mines=5,Population=56,Limit=110,Turns=2)
+   F281[ARISTO]=9
 
-World 122 <SCOTTY> [92,194,289,357]
-     Bulk[40],B-Prod[4],Population[89],Defense[1]
+W289 (39,55,159,237) [ARISTO] (Industry=40/11,Metal=11,Mines=5,
+      Population=78,Limit=100,Turns=5,I-Ships=5)
+   F78[ARISTO]=1 (Moved,Cargo=1)
+   F121[ARISTO]=1 (Moved,Cargo=1)
+   F167[ARISTO]=1 (Moved,Cargo=1)
+   F176[ARISTO]=1 (Moved,Cargo=1)
+   F198[ARISTO]=1 (Moved,Cargo=1)
+   F206[ARISTO]=2 (Moved,Cargo=2)
+   F290[ARISTO]=2 (Moved,Cargo=2)
+   (F46[ARISTO]-->W55 F183[ARISTO]-->W55 F304[ARISTO]-->W237 
+   F306[ARISTO]-->W55 F317[ARISTO]-->W55)
 
-World 123 <WAROMAT> [53,85,284,312],Captured
-      from <YUKONCORNELIUS>
-     Dunamium[7],D-Prod[1],Population[92],SM[2/0]
-        S180<WAROMAT>[1:6],Bulk[3],Dunamium[3],Fires at W123
+W290 (4,163) [FORSTER] (Metal=10,Mines=5,Population=34,Limit=98,Turns=2)
+   F52[]=0 (Lost by [FORSTER])
+   F110[ARISTO]=4 (Moved)
+   F247[FORSTER]=6 (Moved)
+   F253[FORSTER]=4 (Moved)
+   F279[FORSTER]=1
+   F309[]=0 (Lost by [FORSTER])
 
-World 145 <SCOTTY> [5,7,202,398]
-     Bulk[1],Population[113],Defense[1],Intercepts
-     S272<FUBAR>-->W7   
+W305 (39,159) [ARISTO] (Metal=6,Mines=7,Population=2,Limit=92,Turns=3)
+   F55[]=0
+   F84[]=0
 
-World 171 <SCOTTY> [132,284,312,319]
-     Bulk[12],B-Prod[4],Population[32],SM[2/0],Defense[1]
-        S233<FUBAR>[1:18],Moved
 
-World 180 <WAROMAT> [3,294,346,365]
-     Bulk[11],B-Prod[1],Population[75],Defense[1]
+Players you can see this turn:  [SHANTI]  [FREDDIE]  [FORSTER]
+Their scores (not necessarily in order): 300  325  328
+====================
+Due Tuesday, May 27 at 01:27 PM EDT
 
-World 230 <SCOTTY> [15,117,244,324,358]
-     Technology[1],Resources[1],Bulk[3],B-Prod[1],Population[98],Defense[2]
-
-World 234 <SCOTTY> [120,194,235,269,309,357]
-     Bulk[11],B-Prod[3],Dunamium[1],D-Prod[1],Population[89],Defense[1]
-     S36<SCOTTY>-->W309   S78<SCOTTY>-->W309   
-
-World 235 <SCOTTY> [62,120,194,234,384]
-     Bulk[44],B-Prod[4],Population[68],Defense[1]
-        S182<BOB_THE_TOMATO>[1:15],Moved,Intercepted
-     S36<SCOTTY>-->W234   
-
-World 241 <FUBAR> [44,49,129,240],Captured from <SCOTTY>
-     B-Prod[1],D-Prod[1],Population[48],SM[2/1]
-        S155<FUBAR>[1:30],Fires at W241
-
-World 244 <SCOTTY> [96,230,332,340]
-     Bulk[8],B-Prod[1],Population[113/3m,RAINBOW],Defense[1]
-
-World 249 <SCOTTY> [19,68,324,345,358]
-     Bulk[31],B-Prod[3],Population[81],Defense[1]
-
-World 259 <SCOTTY> [73,104,316,398]
-     Bulk[10],B-Prod[1],Population[108],Defense[1]
-
-World 269 <SCOTTY> [14,120,170,192,234]
-     Bulk[11],B-Prod[1],Population[74],Defense[1]
-
-World 277 <MIMIC> [9,57,116,287]
-     Technology[1],Resources[0/1],Bulk[2],B-Prod[1],Population[85],
-     Defense[10]
-        S12<WAROMAT>[1:20],Moved
-        S174<WAROMAT>[1:33],Moved
-        S183<WAROMAT>[1:17],Moved
-        S258<WAROMAT>[1:37],Dunamium[10],Moved
-
-World 281 <SCOTTY> [21,346,383]
-     Technology[50],Resources[0/50],Bulk[29],B-Prod[3],Dunamium[19],
-     Population[138],A23:Roxon Pod,A39:Tellurite Engine,A69:Fractyl Pod,
-     A165:Palintic Engine
-        S48<LARRY_CUCUMBER>[1:56],Moved,Intercepted
-        S227<WAROMAT>[1:5],Bulk[2],Dunamium[3],Moved
-        S267<WAROMAT>[1:4],Bulk[2],Dunamium[2],Moved
-        S271<LARRY_CUCUMBER>[1:34],Moved,Intercepted
-     S163<WAROMAT>-->W21   S210<WAROMAT>-->W21   
-     S215<WAROMAT>-->W21   S219<WAROMAT>-->W21   
-     S257<WAROMAT>-->W21   S260<WAROMAT>-->W21   
-
-World 284 <YUKONCORNELIUS> [123,171,231,315],Captured
-      from <WAROMAT>
-     Bulk[6],B-Prod[2],Population[68]
-        S138<YUKONCORNELIUS>[1:5],Fires at W284
-     S233<FUBAR>-->W171   
-
-World 294 <WAROMAT> [35,132,180,275]
-     Population[109],Defense[1]
-     S27<FUBAR>-->W35   
-
-World 300 <?> [4,19,95,327]
-     Population[0]
-     S53<WAROMAT>-->W4   
-
-World 309 <SCOTTY> [234,324,387]
-     Technology[50],Resources[3],Bulk[3],B-Prod[3],Population[138],
-     A19:Websphere Array,A70:Fractyl Engine,A124:Dynas Engine,
-     A137:Websphere Engine,A140:Websphere Array,A150:Metear Pod
-        S36<SCOTTY>[1:10],Bulk[8],Dunamium[2],Moved
-        S74<WAROMAT>[1:47],Dunamium[7],Gift from <SCOTTY>
-        S78<SCOTTY>[1:18],Bulk[14],Dunamium[4],Moved
-        S112<WAROMAT>[1:5],Bulk[5],Moved
-        S261<WAROMAT>[1:4],Bulk[4],Moved
-
-World 310 <BRITELITE> [78,193,361]
-     Technology[50],Resources[21],Bulk[3],B-Prod[3],Dunamium[9],
-     Population[138m],Defense[16],Fires at S31
-        S31<BRITELITE>[1:0],Captured from <WAROMAT>
-        S63<BRITELITE>[1:6],Moved
-        S212<BRITELITE>[1:5],Moved
-     S19<BRITELITE>-->W361   S192<BRITELITE>-->W361   
-     S222<MIGHTYCONVOY>-->W361   
-
-World 312 <FUBAR> [105,123,171,172],Captured from <SCOTTY>
-     Bulk[12],B-Prod[3],Population[50],SM[2/0]
-        S50<FUBAR>[1:6],Fires at W312
-     S101<YUKONCORNELIUS>-->W105   
-
-World 322 <WAROMAT> [59,67,193,222]
-     Bulk[14],B-Prod[3],Population[67/3m,BRITELITE],Defense[1]
-        S62<BRITELITE>[1:60],Moved
-        S116<BOB_THE_TOMATO>[1:37],Moved
-     S208<WAROMAT>-->W59   
-
-World 324 <SCOTTY> [15,230,249,309,358,364]
-     Bulk[28],B-Prod[3],Population[94],Defense[1]
-        S120<WAROMAT>[1:3],Moved
-
-World 346 <WAROMAT> [35,37,86,180,281]
-     Bulk[9],B-Prod[2],Population[62],A61:Dynas Pod
-     S227<WAROMAT>-->W281   S267<WAROMAT>-->W281   
-
-World 350 <BRITELITE> [7,99,218,334],Captured from <WAROMAT>
-     Bulk[22],B-Prod[2],Population[99/1m]
-        S43<BRITELITE>[1:8],Fires at W350
-     S272<FUBAR>-->W218   
-
-World 356 <BOB_THE_TOMATO> [59,193,218,245]
-     Bulk[6],B-Prod[3],Dunamium[6],Population[42],SM[1/2],Defense[1]
-        S189<LARRY_CUCUMBER>[1:4],Moved
-     S65<WAROMAT>-->W59   
-
-World 357 <SCOTTY> [14,122,234,372]
-     Technology[1],Resources[1],Bulk[15],B-Prod[3],Population[82],Defense[3]
-
-World 358 <SCOTTY> [68,96,230,249,324]
-     Bulk[35],B-Prod[4],Population[68],Defense[1]
-
-World 364 <MIMIC> [4,19,246,324]
-     Bulk[19],B-Prod[2],Kwillic[7],Defense[1],Fires at S120
-     S120<WAROMAT>-->W324   
-
-World 383 <SCOTTY> [281]
-     Bulk[15],B-Prod[3],Population[108]
-
-World 384 <SCOTTY> [48,131,194,235,379]
-     Bulk[12],B-Prod[2],Dunamium[1],D-Prod[1],Population[108],Defense[1],
-     Intercepts
-        S301<LARRY_CUCUMBER>[1:50],Moved
-     S36<SCOTTY>-->W235   S182<BOB_THE_TOMATO>-->W235   
-
-World 387 <SCOTTY> [309]
-     Technology[1],Resources[1],Bulk[6],B-Prod[3],Population[98],Defense[1]
-     S112<WAROMAT>-->W309   S261<WAROMAT>-->W309   
-
-World 398 <WAROMAT> [21,145,157,259]
-     Bulk[24],B-Prod[2],Population[85],Defense[1]
-
-======================================
-<WAROMAT>
-1 shot fired for 6 points
-Capture of W123 for 50 points (non-Vendetta)
-Capture of S279 at W21  for 25 points (non-Vendetta)
-Total ship-energy of 420 for 210 points
-A61:Dynas Pod (20 points)
-
-Total points scored this turn: 311
-
-<SCOTTY>
-Possesses 2793 population for 279 points
-Possesses 106 technology for 212 points
-Possesses 76 bulk and dunamium production for 76 points
-A140:Websphere Array (20 points)
-A137:Websphere Engine (20 points)
-A19:Websphere Array (20 points)
-A138:Websphere Engine (20 points)
-
-Total points scored this turn: 647
-======================================
-Players you can see this turn (sorted alphabetically):
-     BOB_THE_TOMATO BRITELITE CYLON FUBAR LARRY_CUCUMBER MIGHTYCONVOY MIMIC 
-     RAINBOW SNAFU YUKONCORNELIUS 
-
-Their scores (sorted highest to lowest):
-     13815 10493 8850 6382 4593 4320 4094 3456 1839 1410  
-======================================
-BEACON MESSAGE FROM <BOB_THE_TOMATO>
-
-     Howdy.  Scott aka BOB_THE_TOMATO and LARRY_CUCUMBER here. 
-     Please contact me at crazyzo@earthlink.net or ICQ# 46515082.  Thanks. 
-======================================
-ORDERS:
-     S92T1D S267L S267W346W281 S12T1D S12W277 S174W277 S183W277 S258W277 
-     S180FD S78L S78W309 W281T42S163 S163W21 S163D S210W21 S210D S215W21 
-     S215D S219W21 S219D S257W21 S257D S260W21 S53W4 W309T39S74 
-     S74G=WAROMAT S31W361<IE> S208T1D S208W59 S227W281 S65W59 
-     S120W324 S36L S36W235W234W309 W387T1S112 S112L S112W309 S261L S261W309  
-
-     Beacon Message: 
-
-     Let us conquer the universe together, or be friends?  http://constella.org?
