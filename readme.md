@@ -1,11 +1,12 @@
-*** helpers for RSWGame, Star Web, and Starcon
+helpers for RSWGame, Star Web, and Starcon
+==================================================================
 
-* magic.rb: the most useful of the bunch, but needs tons of customization per user, per game
+* **magic.rb**: useful, but needs customization per user, per game
 
-* adept.rb: an aborted attempt at running the tool via Camping
+* **adept.rb**: adept-style tools via [Camping](http://camping.io/)
 
-* rxTurn.rb, readTurn.rb: test reading the xml file via REXML.
+* **rxTurn.rb, readTurn.rb**: test reading the xml file via REXML.
 
-* SCORPION\_T3.xml: test file for Starcon
+* **SCORPION\_T3.xml**: test file for Starcon
 
-* scotomat.txt: test file for RSWGame (Starweb compatibility mode)
+* **scotomat.txt**: test file for RSWGame (Starweb compatibility mode)
